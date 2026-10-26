@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://krasalex123.github.io/sitemap.xml
